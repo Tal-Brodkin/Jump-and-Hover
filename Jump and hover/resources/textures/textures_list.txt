@@ -1,0 +1,13 @@
+player.png
+hover_bar.png
+wall.png
+ground.png
+pratform.png
+moving_platform.png
+spikes.png
+apple.png
+exit.png
+exit_achieved.png
+background.png
+falling_platform.png
+falling_platform_off.png

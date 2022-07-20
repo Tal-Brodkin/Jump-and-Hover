@@ -1,0 +1,10 @@
+music.wav
+player_jump.wav
+player_dead.wav
+player_dead_2.wav
+menu_click.wav
+menu_click2.wav
+level_won.wav
+level_won2.wav
+take_boost.wav
+error_select.wav
