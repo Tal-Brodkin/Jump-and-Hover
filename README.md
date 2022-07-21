@@ -1,4 +1,4 @@
-# Jump-and-Hover
+# Jump & Hover
 
 This is my second year final project coded in C++ using Box2d and SFML.
 
