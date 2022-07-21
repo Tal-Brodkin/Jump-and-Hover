@@ -1,6 +1,6 @@
 # Jump & Hover
 
-This is my second year final project coded in C++ using Box2d and SFML.
+This is my second year final project coded in C++ using Box2d for physics and SFML for graphics.
 
 It's a remake of a small platform game called "Jump and Hover" which you 
 have to use the player's feature of levitation in order to overcome obstacles and reach the end of the level.
